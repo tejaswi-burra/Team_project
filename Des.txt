@@ -1,0 +1,12 @@
+🍽️ Food Poster Project
+This project showcases a creative food-based poster designed and developed collaboratively by our team of five:
+
+Tejaswi: Created the GitHub repository and set up the branch for our work.
+
+Preethi & Reethu: Designed the poster with an eye-catching layout and appealing visuals.
+
+Devika: Contributed to the project with valuable inputs and refinements.
+
+Dinisha: Created the pull request and helped merge our efforts into the main repository.
+
+We worked together using GitHub’s collaborative features — from branching to pull requests — to ensure smooth teamwork. The final poster is available in this repository. 🎉
